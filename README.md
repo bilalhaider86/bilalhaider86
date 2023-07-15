@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilalhaider86
 - 👀 I’m interested in secure application development
-- 🌱 I’m currently learning IoT, blockchain, AI
+- 🌱 I’m currently learning Quantum Comuting,IoT, blockchain, AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bilalhaider86@gmail.com 
 
